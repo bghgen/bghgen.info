@@ -1,2 +1,2 @@
 # bghgen.info
-bghgen.info site
+bghgen.info hosting
